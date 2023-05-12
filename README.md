@@ -293,5 +293,46 @@ plt.title("Feature importance using Lasso Model")
 
 plt.show()      
 
+## OUTPUT
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/b24dc035-6447-4e9f-9506-8ec608fe64d7)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/406e94f1-7cb3-4c33-8348-b239e581817b)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/216830fa-c25a-4510-b557-fd84b4b2c407)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/640024e2-c8f4-4882-8f2e-165cc3b0801d)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/e33b94a1-80aa-4a68-938a-ac3a47ff1750)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/09d5f6e1-577a-4152-82cb-5650050978b5)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/ccfabfe2-976a-490b-be95-5000665e9a62)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/5829f8be-5f4e-4e7b-ac7d-2ddf02ef6bae)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/505937d4-79d0-4d0f-b426-eb96c5ff8284)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/bb8cb530-c4b9-4fd3-b6de-e547f9576fcd)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/74fdc5f4-6948-4238-bfc2-45f3dd865645)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/96c12e18-2b40-4495-9294-dfd6a3b33ae2)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/8fe5acae-e8a4-4dbd-997f-03593fb843de)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/22ddaa16-64ce-4bb5-acfd-286795dcdc7c)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/fdbf03b2-77e1-4602-ae2c-26113b322d50)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/f887a4f2-10a8-489e-874f-3238d6edef84)
+
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-7/assets/126390051/9deae22d-402b-449f-8a59-e0ab7b708c1c)
+
+## RESULT:
+
+Thus the Feature Selection for the given datasets had been executed successfully
+
+
 
 
